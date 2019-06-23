@@ -1,5 +1,5 @@
 import React from "react";
-import TestCard from "../TestCard/TestCard";
+import TestCard from "../PeopleCard/PeopleCard";
 import StarshipCard from "../ShipCard/StarshipCard";
 
 const GroupCard = props => {

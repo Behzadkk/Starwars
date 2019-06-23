@@ -1,6 +1,6 @@
 import React from "react";
 
-const TestCard = props => {
+const PeopleCard = props => {
   return (
     <div className="card text-center">
       <h5 className="card-header">
@@ -19,4 +19,4 @@ const TestCard = props => {
   );
 };
 
-export default TestCard;
+export default PeopleCard;
