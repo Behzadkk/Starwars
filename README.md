@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Star Wars Game
+This project is a part of a job recruitment process at Smart Pension.
+The task was: <br>
+Using SWAPI: https://swapi.co/documentation <br>
+Build an application to select random people or starships and render their details to see who would win based on a common attribute.
+i.e. people have mass and starships have crew. A person with greater mass wins, a starship with more crew wins. 
+The app should render the attributes from the resource in a simple web page that allows you to ‘play’ the game. 
+Once two cards are displayed the app should declare one of the cards a winner based on the higher common attribute.
+
+## Live app
+This app is available at http://dry-citadel-31113.herokuapp.com/
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
